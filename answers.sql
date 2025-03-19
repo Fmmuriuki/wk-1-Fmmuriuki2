@@ -1,2 +1,2 @@
-create database SaleDB;
+create database salesDBL;
 drop database demo;
