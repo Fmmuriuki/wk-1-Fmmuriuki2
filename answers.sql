@@ -1,4 +1,3 @@
-create database salesDBL;
+create database salesDB;
 drop database demo;
-create database	SalesDbsa;
-drop database salesdbsa;
+
